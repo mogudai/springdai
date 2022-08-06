@@ -12,6 +12,6 @@ public class Test {
 
     public void shouldAnswerWithTrue()
     {
-        System.out.println(3);
+        System.out.println(4);
     }
 }
