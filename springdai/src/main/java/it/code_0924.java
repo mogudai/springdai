@@ -5,7 +5,6 @@ package it;
 public class code_0924 {
     public static void main(String[] args) {
         int n=5;
-        System.out.println(show(n));
         int shows = shows(n);
         System.out.println(shows);
     }

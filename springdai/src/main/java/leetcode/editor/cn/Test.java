@@ -6,10 +6,8 @@ public class Test {
         new Test().shouldAnswerWithTrue();
     }
 
-
-    public void shouldAnswerWithTrue()
-    {
-        System.out.println(4);
-
+    // a 97 z 122 A65 Z 91 0:48 9:57
+    public void shouldAnswerWithTrue() {
+        System.out.println('9'+0);
     }
 }
