@@ -1,4 +1,4 @@
-package it.od;
+package it.od.huadong;
 
 import java.util.Arrays;
 import java.util.Scanner;

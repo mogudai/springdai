@@ -1,8 +1,9 @@
-package it.od;
+package it.od.huadong;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
+//识图谱新词挖掘
 public class Od59 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

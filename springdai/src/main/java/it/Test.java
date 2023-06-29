@@ -3,10 +3,7 @@ package it;
 public class Test {
 
     public static void main(String[] args) {
-        int[] coins = {7,2,5};
-        int M = 29;
-        int i = coinChage(coins, M);
-        System.out.println(i);
+
     }
 
 

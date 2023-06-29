@@ -1,4 +1,4 @@
-package it.od;
+package it.od.huadong;
 
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -34,8 +34,6 @@ public class Od130 {
                     rigth = left;
                     rigth++;
                     continue;
-                } else {
-
                 }
             } else if (total < sum) {
                 // 扩大区间，右指针右移

@@ -1,8 +1,9 @@
-package it.od;
+package it.od.huadong;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
+//最长连续子序列
 public class Od130_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

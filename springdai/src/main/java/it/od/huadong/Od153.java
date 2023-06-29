@@ -1,8 +1,9 @@
-package it.od;
+package it.od.huadong;
 
 import java.util.LinkedList;
 import java.util.Scanner;
 
+// 求满足条件的最长子串的长度
 public class Od153 {
 
     public static void main(String[] args) {

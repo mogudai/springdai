@@ -1,7 +1,7 @@
-package it.od;
+package it.od.huadong;
 
 import java.util.Scanner;
-
+// A里巴巴V
 public class Od143 {
 
     static int max = Integer.MIN_VALUE;

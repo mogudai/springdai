@@ -1,8 +1,8 @@
-package it.od;
+package it.od.huadong;
 
 import java.util.HashMap;
 import java.util.Scanner;
-
+// 恢复数字序列
 public class Od145 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
